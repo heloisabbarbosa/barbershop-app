@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Barbearia</string>
+    <string name="hey">Hey, escolha o local da Barbearia\n para ser atendido</string>
+
+
+    <string name="bg_degrade">Background</string>
+    <string name="icon_mustache">IconMustache</string>
+    <string name="escolha_o_barbeiro">Escolha o Barbeiro para</string>
+    <string name="disponibilidade">ver a disponibilidade de horário</string>
+    <string name="btn_voltar">v</string>
+    <string name="txt_titulo_view_agendamento">Escolha o que você deseja</string>
+    <string name="txt_subtitulo_view_agendamento">e selecione o dia e horário</string>
+
+    <string name="spinner_data_hora">Spinner data/hora</string>
+    <string name="img_barbeiro">Foto do barbeiro</string>
+    <string name="btn_agendar">Agendar</string>
+    <string name="foto_list_barbeiro"> Foto do barbeiro</string>
+    <string name="name_list_barbeiro">Nome do barbeiro</string>
+
+
+    <string name="txt_name_clienet_agendamento">Insira seu nome</string>
+    <string name="option_agendar_corte_maquina">Máquina</string>
+    <string name="option_agendar_corte_tesoura">Tesoura</string>
+    <string name="option_agendar_corte_sobrancelha">Sobrancelha</string>
+    <string name="option_agendar_corte_barba">Barba</string>
+
+    <string name="agendamento_realizado">AGENDAMENTO REALIZADO </string>
+    <string name="splash">Splash</string>
+    <string name="recife">RECIFE</string>
+    <string name="caruaru">CARUARU</string>
+    <string name="logo">logo5</string>
+    <string name="barbeiro">barbeiro</string>
+    <string name="ic_1">ic_1</string>
+    <string name="btn_back">oi</string>
+    <string name="barbeiros">Barbeiros</string>
+    <string name="horario">horario</string>
+    <string name="insira_seu_nome">Insira seu Nome</string>
+    <string name="oi">oi</string>
+    <string name="ic_scissors">ic_scissors</string>
+    <string name="relatorio">Agendamento</string>
+    <string name="capturar">Capturar</string>
+    <string name="nome_do_barbeiro">Nome do Barbeiro:</string>
+    <string name="nome_do_cliente">Nome do Cliente:</string>
+    <string name="data_horario">Data/Horário:</string>
+    <string name="procedimentos">Procedimentos:</string>
+    <string name="valor_total">Valor Total:</string>
+    <string name="obs_relatorio">Obs: Será necessário apresentar a captura de tela deste relatório para ser atendido pelo Barbeiro.</string>
+    <string name="barbeiro_relatorio">barbeiro_relatorio</string>
+</resources>
