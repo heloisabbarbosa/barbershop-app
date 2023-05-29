@@ -18,7 +18,7 @@ Fazendo seu agendamento e escolhendo quais vão ser os serviços realizados.
 # Como executar o projeto
 
 ## Android Studio
-Pode ser pela própria IDE do AndroidStudio, baixando uma máquina virtual ou conectando seu celular ao computador e baixando a aplicação direto<br> no dispositivo.
+Pode ser pela própria IDE do AndroidStudio, baixando uma máquina virtual ou conectando seu celular ao computador e baixando a aplicação direto no dispositivo.
 
 
 # Autor
