@@ -1,4 +1,5 @@
 # BarberShop
+![app-barbershop](https://github.com/heloisabbarbosa/barbershop-app/assets/129234675/e80b74af-861b-4378-bafd-8f0c529bee87)
 
 # Sobre o projeto
 
