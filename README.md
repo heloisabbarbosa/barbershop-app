@@ -20,6 +20,8 @@ Fazendo seu agendamento e escolhendo quais vão ser os serviços realizados.
 
 ## Android Studio
 Pode ser pela própria IDE do AndroidStudio, baixando uma máquina virtual ou conectando seu celular ao computador e baixando a aplicação direto no dispositivo.
+##
+APK do app: https://drive.google.com/file/d/1X9lKDaGP6HpVMPJdFq1SLpFXa_RkxHUc/view?usp=sharing
 
 
 # Autor
